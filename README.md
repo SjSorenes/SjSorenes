@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on assignments
 - 🌱 I’m currently learning JavaScript, CSS, and HTML
 - 🤔 I’m looking for help with JavaScript and vacuuming
-- 📫 How to reach me: https://www.linkedin.com/in/sophia-jean-s%C3%B8renes-13771a21a/ or email sophiasorenes@gmail.com
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sophia-jean-s%C3%B8renes-13771a21a/) or email sophiasorenes@gmail.com
 - ⚡ Fun fact: I once had a pet lemming for a day 🐹
 
 <!--
